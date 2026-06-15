@@ -1,0 +1,17 @@
+# Secrets / signing
+keystore.properties
+*.jks
+*.keystore
+local.properties
+
+# Build / IDE
+/build
+app/build
+/.gradle
+.kotlin
+/.idea
+*.iml
+.DS_Store
+
+# Tooling / scratch
+/.playwright-mcp
