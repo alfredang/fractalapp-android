@@ -13,6 +13,8 @@
 
 **A native Android fractal-art generator — type a word, get living art.**
 
+<p><a href="https://play.google.com/store/apps/details?id=com.tertiaryinfotech.fractalexplorerapp"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80"></a></p>
+
 Generate colorful Mandelbrot, Julia, Burning Ship, Tricorn, Phoenix and Celtic fractals,
 rendered live on the GPU. Fully offline. No backend, no tracking.
 
